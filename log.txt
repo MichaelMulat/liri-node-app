@@ -1,0 +1,876 @@
+Venue Name: Times Union Center
+Location: Albany, NY, United States
+Date: 03/18/2019
+Venue Name: TD Garden
+Location: Boston, MA, United States
+Date: 03/20/2019
+Venue Name: Capitol One Arena
+Location: Washington, DC, United States
+Date: 03/25/2019
+Venue Name: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date: 03/26/2019
+Venue Name: Quicken Loans Arena
+Location: Cleveland, OH, United States
+Date: 03/28/2019
+Venue Name: Mohegan Sun Arena
+Location: Uncasville, CT, United States
+Date: 03/30/2019
+Venue Name: KeyBank Center
+Location: Buffalo, NY, United States
+Date: 03/22/2019
+Venue Name: Little Caesars Arena
+Location: Detroit, MI, United States
+Date: 04/05/2019
+Venue Name: Scotiabank Arena
+Location: Toronto, , Canada
+Date: 04/03/2019
+Venue Name: Coachella Valley Music and Arts Festival
+Location: Indio, CA, United States
+Date: 04/14/2019
+Venue Name: Bell Centre
+Location: Montréal, , Canada
+Date: 04/01/2019
+Venue Name: Coachella Valley Music and Arts Festival
+Location: Indio, CA, United States
+Date: 04/21/2019
+Venue Name: Rogers Place
+Location: Edmonton, , Canada
+Date: 04/25/2019
+Venue Name: Rogers Arena
+Location: Vancouver, , Canada
+Date: 04/27/2019
+Venue Name: Moda Center
+Location: Portland, OR, United States
+Date: 04/30/2019
+Venue Name: Golden 1 Center
+Location: Sacramento, CA, United States
+Date: 05/03/2019
+Venue Name: Staples Center
+Location: Los Angeles, CA, United States
+Date: 05/07/2019
+Venue Name: T-Mobile Arena
+Location: Las Vegas, NV, United States
+Date: 05/11/2019
+Venue Name: Talking Stick Resort Arena
+Location: Phoenix, AZ, United States
+Date: 05/14/2019
+Venue Name: AT&T Center
+Location: San Antonio, TX, United States
+Date: 05/17/2019
+Venue Name: Toyota Center
+Location: Houston, TX, United States
+Date: 05/19/2019
+Venue Name: American Airlines Center
+Location: Dallas, TX, United States
+Date: 05/21/2019
+Venue Name: Chesapeake Energy Arena
+Location: Oklahoma City, OK, United States
+Date: 05/23/2019
+Venue Name: Smoothie King Center
+Location: New Orleans, LA, United States
+Date: 05/25/2019
+Venue Name: Amalie Arena
+Location: Tampa, FL, United States
+Date: 05/28/2019
+Venue Name: Amway Center
+Location: Orlando, FL, United States
+Date: 05/29/2019
+Venue Name: American Airlines Arena
+Location: Miami, FL, United States
+Date: 05/31/2019
+Venue Name: American Airlines Arena
+Location: Miami, FL, United States
+Date: 06/01/2019
+Venue Name: United Center
+Location: Chicago, IL, United States
+Date: 06/04/2019
+Venue Name: The Forum
+Location: Los Angeles, CA, United States
+Date: 05/10/2019
+Venue Name: Bridgestone Arena
+Location: Nashville, TN, United States
+Date: 06/07/2019
+Venue Name: United Center
+Location: Chicago, IL, United States
+Date: 06/05/2019
+Venue Name: Spectrum Center
+Location: Charlotte, NC, United States
+Date: 06/10/2019
+Venue Name: PPG Paints Arena
+Location: Pittsburgh, PA, United States
+Date: 06/12/2019
+Venue Name: Barclays Center
+Location: Brooklyn, NY, United States
+Date: 06/14/2019
+Venue Name: Barclays Center
+Location: Brooklyn, NY, United States
+Date: 06/15/2019
+Venue Name: Madison Square Garden
+Location: New York, NY, United States
+Date: 06/18/2019
+Venue Name: Madison Square Garden
+Location: New York, NY, United States
+Date: 06/19/2019
+Venue Name: Capital One Arena
+Location: Washington, DC, United States
+Date: 06/21/2019
+Venue Name: TD Garden
+Location: Boston, MA, United States
+Date: 06/22/2019
+Venue Name: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date: 06/24/2019
+Venue Name: Scotiabank Arena
+Location: Toronto, , Canada
+Date: 06/26/2019
+Venue Name: Bankers Life Fieldhouse
+Location: Indianapolis, IN, United States
+Date: 06/29/2019
+Venue Name: The Schottenstein Center
+Location: Columbus, OH, United States
+Date: 07/01/2019
+Venue Name: Fiserv Forum
+Location: Milwaukee, WI, United States
+Date: 07/05/2019
+Venue Name: Enterprise Center
+Location: St. Louis, MO, United States
+Date: 07/06/2019
+Venue Name: Xcel Energy Center
+Location: St Paul, MN, United States
+Date: 07/08/2019
+Venue Name: Pepsi Center
+Location: Denver, CO, United States
+Date: 07/11/2019
+Venue Name: Vivint Smart Home Arena
+Location: Salt Lake City, UT, United States
+Date: 07/13/2019
+Venue Name: The O2 Arena
+Location: London, , United Kingdom
+Date: 08/17/2019
+Venue Name: The O2
+Location: London, , United Kingdom
+Date: 08/19/2019
+Venue Name: The O2 Arena
+Location: London, , United Kingdom
+Date: 08/20/2019
+Venue Name: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date: 08/23/2019
+Venue Name: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date: 08/24/2019
+Venue Name: AccorHotels Arena
+Location: Paris, , France
+Date: 08/27/2019
+Venue Name: AccorHotels Arena
+Location: Paris, , France
+Date: 08/28/2019
+Venue Name: Sportpaleis Antwerpen
+Location: Antwerpen, , Belgium
+Date: 08/30/2019
+Venue Name: Lanxess Arena
+Location: Köln, , Germany
+Date: 09/01/2019
+Venue Name: Stadthalle
+Location: Vienna, , Austria
+Date: 09/03/2019
+Venue Name: Barclaycard Arena
+Location: Hamburg, , Germany
+Date: 09/05/2019
+Venue Name: O2 arena
+Location: Praha 9, , Czech Republic
+Date: 09/08/2019
+Venue Name: Tauron Arena
+Location: Kraków, , Poland
+Date: 09/09/2019
+Venue Name: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date: 09/11/2019
+Venue Name: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date: 09/14/2019
+Venue Name: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date: 09/15/2019
+Venue Name: The SSE Hydro
+Location: Glasgow, , United Kingdom
+Date: 09/17/2019
+Venue Name: FlyDSA Arena
+Location: Sheffield, , United Kingdom
+Date: 09/19/2019
+Venue Name: 3Arena
+Location: Dublin, , Ireland
+Date: 09/22/2019
+Venue Name: 3Arena
+Location: Dublin, , Ireland
+Date: 09/23/2019
+Venue Name: Royal Arena
+Location: Copenhagen, , Denmark
+Date: 10/01/2019
+Venue Name: Telenor Arena
+Location: Oslo, , Norway
+Date: 10/03/2019
+Venue Name: Hartwall Arena
+Location: Hki, , Finland
+Date: 10/05/2019
+Venue Name: STAPLES Center
+Location: Los Angeles, CA, United States
+Date: 05/06/2019
+Venue Name: Mercedes-Benz-Arena
+Location: Berlin, , Germany
+Date: 10/10/2019
+Venue Name: Hallenstadion
+Location: Zürich, , Switzerland
+Date: 10/13/2019
+Venue Name: SAP Center
+Location: San Jose, CA, United States
+Date: 05/02/2019
+Venue Name: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 06/08/2019
+Venue Name: Ericsson Globe
+Location: Stockholm, , Sweden
+Date: 10/07/2019
+Artist: Boosie Badazz
+Song: Deep off in tha Club
+Preview Link: https://p.scdn.co/mp3-preview/eda8fb76a4de20d83799e27ddc3731f659f99074?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: My Favorite Mixtape
+Artist: Haystak
+Song: In Tha Club (feat. Loose Cannon)
+Preview Link: https://p.scdn.co/mp3-preview/41114864781fbdb002c48f93299e77f95cea4418?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: The Basement Tapes
+Artist: Avail Hollywood
+Song: Club in Tha Woods (Remix) [feat. Black Zack]
+Preview Link: https://p.scdn.co/mp3-preview/e6ac6e38114ce86d9df525856b1a106fd05cdf30?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Country Road
+Artist: Royce Da 5'9"
+Song: In the Club
+Preview Link: https://p.scdn.co/mp3-preview/5db4cda6a299fa9e8aa07bfc27cf95df1fb8f44a?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Bar Exam 3 (The Most Interesting Man)
+Artist: Tha' Hot Club
+Song: Let Me Love You
+Preview Link: https://p.scdn.co/mp3-preview/c6c8677edb9fe3339f5edda89b65da6fef21b0db?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: In The V.I.P. Room
+Artist: Tha' Hot Club
+Song: Crazy In Love
+Preview Link: https://p.scdn.co/mp3-preview/c332e31711ed9d6ecc501e522de4e2633d6db930?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Tha' Hot Club: Tha' Real Hip-Hop Smooth Urban Jazz
+Artist: D Fame
+Song: In Tha Club
+Preview Link: https://p.scdn.co/mp3-preview/e93469eabd80c272964863327e1a59dc71163be9?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: In Tha Club
+Artist: Tha' Hot Club
+Song: Hot In Heere
+Preview Link: https://p.scdn.co/mp3-preview/3948b66bef321fa33c3393adcec58b2d8e13dc3e?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Tha' Hot Club: Tha' Real Hip-Hop Smooth Urban Jazz
+Artist: Tha' Hot Club
+Song: In Da Club
+Preview Link: https://p.scdn.co/mp3-preview/17c6a0cc522676a5168b8ab4c6bd1b79b8dd8b65?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Tha' Hot Club: Tha' Real Hip-Hop Smooth Urban Jazz
+Artist: Chalie Boy & Tite
+Song: In Tha Club
+Preview Link: https://p.scdn.co/mp3-preview/56a4eb6884e97b083674499d50acf2392edf1408?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Best Of Chalie Boy & Tite
+Artist: Tha' Hot Club
+Song: Love Come Down
+Preview Link: https://p.scdn.co/mp3-preview/5999575ddd9b1f49f5c8522fea3ea2b722d6d97c?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: In The V.I.P. Room
+Artist: Tha' Hot Club
+Song: Candy Shop
+Preview Link: https://p.scdn.co/mp3-preview/dd4e79bb195cd0fed71afb855a8155bc8e3f895d?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: In The V.I.P. Room
+Artist: Tha' Hot Club
+Song: Truth Is
+Preview Link: https://p.scdn.co/mp3-preview/b1ee026eca5ffb995139ca643d1df2e137a2c99e?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: In The V.I.P. Room
+Artist: The Team
+Song: Everybody In Tha Club
+Preview Link: https://p.scdn.co/mp3-preview/c838604c178aa525a40abce9db74d7e58bbeb254?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: The Negro League
+Artist: M.In
+Song: We're In Tha Club - ONNO Remix
+Preview Link: https://p.scdn.co/mp3-preview/ae40ccc0f38428024ed576596a5af31705882de5?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: We're In Tha Club
+Artist: Tha' Hot Club
+Song: Moonrise
+Preview Link: https://p.scdn.co/mp3-preview/a44c5d0aa6640c17194f99e16ac8132c6c2b7df5?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: In The V.I.P. Room
+Artist: Tha' Hot Club
+Song: Yeah!
+Preview Link: https://p.scdn.co/mp3-preview/702b8f0126bfdcaa40bee34c8becbbf95dcc9906?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: In The V.I.P. Room
+Artist: Daz Dillinger
+Song: This Is What Happens In Tha Club
+Preview Link: https://p.scdn.co/mp3-preview/d09c5c1fce51ed3c52e213ab77f8e83f446fdabe?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Who Ride Wit Us - The Compalation Vol 2.
+Artist: Avail Hollywood
+Song: Club in Tha Woods (Original Version)
+Preview Link: https://p.scdn.co/mp3-preview/ecd3ee84e3f3838f018c03afb5226fa78c415caf?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Country Road
+Artist: Tha' Hot Club
+Song: Drop It Like It's Hot
+Preview Link: https://p.scdn.co/mp3-preview/c886129bb49034c3a65b9f3a71c0ae625494904d?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: In The V.I.P. Room
+Artist: Jay Rock
+Song: King's Dead (with Kendrick Lamar, Future & James Blake)
+Preview Link: null
+Album: King's Dead (with Kendrick Lamar, Future & James Blake)
+Artist: Jay Rock
+Song: King's Dead (with Kendrick Lamar, Future & James Blake)
+Preview Link: null
+Album: Black Panther The Album Music From And Inspired By
+Artist: DJ Max Star
+Song: Kings Dead Freestyle
+Preview Link: https://p.scdn.co/mp3-preview/36d83382891bc2edf5cbdd5a654d0b8f4637e6cd?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: #Lakers
+Artist: Zeds Dead
+Song: We Could Be Kings
+Preview Link: null
+Album: We Could Be Kings
+Artist: Jay Rock
+Song: King's Dead (feat. Future)
+Preview Link: null
+Album: Redemption
+Artist: Jay Rock
+Song: King's Dead (with Kendrick Lamar, Future & James Blake)
+Preview Link: null
+Album: Black Panther The Album Music From And Inspired By
+Artist: Jay Rock
+Song: King's Dead (with Kendrick Lamar, Future & James Blake)
+Preview Link: null
+Album: King's Dead (with Kendrick Lamar, Future & James Blake)
+Artist: Katatonia
+Song: Dead Letters
+Preview Link: https://p.scdn.co/mp3-preview/caf2fa12e868c9f56f07723351fb16860979d71e?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Artist: Blaze Ya Dead Homie
+Song: Ridin' the Whip (feat. Kottonmouth Kings)
+Preview Link: https://p.scdn.co/mp3-preview/46a4ccd7dc0d0ac64ab80e4b96dac0cecb0e020e?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Gang Rags
+Artist: Juce
+Song: Kings Dead
+Preview Link: https://p.scdn.co/mp3-preview/24b882d6febf24922def8fa699d86ffd606a71b6?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Toxens
+Artist: The Kings Dead
+Song: Good Rebels (feat. Moonflwr)
+Preview Link: https://p.scdn.co/mp3-preview/44ffe080cbb04eed2f674231431af430706408c3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Revenge of the Beast
+Artist: Jay Rock
+Song: King's Dead (feat. Future)
+Preview Link: null
+Album: Redemption
+Artist: Sarah Schachner
+Song: Dead Kings and Living Gods
+Preview Link: https://p.scdn.co/mp3-preview/5013f332d31364bb6671d63a58fc3edde718f481?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Assassin's Creed Origins (Original Game Soundtrack)
+Artist: Katatonia
+Song: The Parting
+Preview Link: https://p.scdn.co/mp3-preview/4dc3de4763c647020ad436b5cec12683ca23127a?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Artist: Katatonia
+Song: The One You Are Looking for Is Not Here (with Silje Wergeland)
+Preview Link: https://p.scdn.co/mp3-preview/fba2f67b1771529c94ffd95cef155a43af0e88bf?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Artist: The Kings Dead
+Song: Shooting Star (feat. Alexus Lee)
+Preview Link: https://p.scdn.co/mp3-preview/16a685faf1a321cb61c024c807723e092a29135c?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Revenge of the Beast
+Artist: Dead Can Dance
+Song: In The Kingdom Of The Blind The One-Eyed Are Kings (Remastered)
+Preview Link: https://p.scdn.co/mp3-preview/70736d52e3d7b0d2a4103ff3bc569d638f2fcacf?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: The Serpent's Egg (Remastered)
+Artist: Katatonia
+Song: Lethean
+Preview Link: https://p.scdn.co/mp3-preview/c531fd24786e050f133c90f6895f454eadbf5018?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Artist: Alexandre Desplat
+Song: The King is Dead
+Preview Link: null
+Album: The King's Speech (International Version)
+Artist: Katatonia
+Song: The Racing Heart
+Preview Link: https://p.scdn.co/mp3-preview/8f114e3a238766c8fb71c8f8f2fbb9cdd7f7dbb6?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Venue Name: Times Union Center
+Location: Albany, NY, United States
+Date: 03/18/2019
+Venue Name: TD Garden
+Location: Boston, MA, United States
+Date: 03/20/2019
+Venue Name: KeyBank Center
+Location: Buffalo, NY, United States
+Date: 03/22/2019
+Venue Name: Capitol One Arena
+Location: Washington, DC, United States
+Date: 03/25/2019
+Venue Name: Quicken Loans Arena
+Location: Cleveland, OH, United States
+Date: 03/28/2019
+Venue Name: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date: 03/26/2019
+Venue Name: Bell Centre
+Location: Montréal, , Canada
+Date: 04/01/2019
+Venue Name: Mohegan Sun Arena
+Location: Uncasville, CT, United States
+Date: 03/30/2019
+Venue Name: Scotiabank Arena
+Location: Toronto, , Canada
+Date: 04/03/2019
+Venue Name: Little Caesars Arena
+Location: Detroit, MI, United States
+Date: 04/05/2019
+Venue Name: Coachella Valley Music and Arts Festival
+Location: Indio, CA, United States
+Date: 04/14/2019
+Venue Name: Coachella Valley Music and Arts Festival
+Location: Indio, CA, United States
+Date: 04/21/2019
+Venue Name: Rogers Place
+Location: Edmonton, , Canada
+Date: 04/25/2019
+Venue Name: Rogers Arena
+Location: Vancouver, , Canada
+Date: 04/27/2019
+Venue Name: Moda Center
+Location: Portland, OR, United States
+Date: 04/30/2019
+Venue Name: SAP Center
+Location: San Jose, CA, United States
+Date: 05/02/2019
+Venue Name: Golden 1 Center
+Location: Sacramento, CA, United States
+Date: 05/03/2019
+Venue Name: STAPLES Center
+Location: Los Angeles, CA, United States
+Date: 05/06/2019
+Venue Name: Staples Center
+Location: Los Angeles, CA, United States
+Date: 05/07/2019
+Venue Name: The Forum
+Location: Los Angeles, CA, United States
+Date: 05/10/2019
+Venue Name: T-Mobile Arena
+Location: Las Vegas, NV, United States
+Date: 05/11/2019
+Venue Name: Talking Stick Resort Arena
+Location: Phoenix, AZ, United States
+Date: 05/14/2019
+Venue Name: AT&T Center
+Location: San Antonio, TX, United States
+Date: 05/17/2019
+Venue Name: Toyota Center
+Location: Houston, TX, United States
+Date: 05/19/2019
+Venue Name: American Airlines Center
+Location: Dallas, TX, United States
+Date: 05/21/2019
+Venue Name: Chesapeake Energy Arena
+Location: Oklahoma City, OK, United States
+Date: 05/23/2019
+Venue Name: Smoothie King Center
+Location: New Orleans, LA, United States
+Date: 05/25/2019
+Venue Name: Amway Center
+Location: Orlando, FL, United States
+Date: 05/29/2019
+Venue Name: American Airlines Arena
+Location: Miami, FL, United States
+Date: 05/31/2019
+Venue Name: American Airlines Arena
+Location: Miami, FL, United States
+Date: 06/01/2019
+Venue Name: United Center
+Location: Chicago, IL, United States
+Date: 06/05/2019
+Venue Name: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 06/08/2019
+Venue Name: Spectrum Center
+Location: Charlotte, NC, United States
+Date: 06/10/2019
+Venue Name: Amalie Arena
+Location: Tampa, FL, United States
+Date: 05/28/2019
+Venue Name: Barclays Center
+Location: Brooklyn, NY, United States
+Date: 06/14/2019
+Venue Name: Barclays Center
+Location: Brooklyn, NY, United States
+Date: 06/15/2019
+Venue Name: Madison Square Garden
+Location: New York, NY, United States
+Date: 06/18/2019
+Venue Name: Madison Square Garden
+Location: New York, NY, United States
+Date: 06/19/2019
+Venue Name: Capital One Arena
+Location: Washington, DC, United States
+Date: 06/21/2019
+Venue Name: TD Garden
+Location: Boston, MA, United States
+Date: 06/22/2019
+Venue Name: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date: 06/24/2019
+Venue Name: Scotiabank Arena
+Location: Toronto, , Canada
+Date: 06/26/2019
+Venue Name: Bankers Life Fieldhouse
+Location: Indianapolis, IN, United States
+Date: 06/29/2019
+Venue Name: United Center
+Location: Chicago, IL, United States
+Date: 06/04/2019
+Venue Name: Fiserv Forum
+Location: Milwaukee, WI, United States
+Date: 07/05/2019
+Venue Name: Enterprise Center
+Location: St. Louis, MO, United States
+Date: 07/06/2019
+Venue Name: Xcel Energy Center
+Location: St Paul, MN, United States
+Date: 07/08/2019
+Venue Name: Pepsi Center
+Location: Denver, CO, United States
+Date: 07/11/2019
+Venue Name: Vivint Smart Home Arena
+Location: Salt Lake City, UT, United States
+Date: 07/13/2019
+Venue Name: The O2 Arena
+Location: London, , United Kingdom
+Date: 08/17/2019
+Venue Name: The O2
+Location: London, , United Kingdom
+Date: 08/19/2019
+Venue Name: The O2 Arena
+Location: London, , United Kingdom
+Date: 08/20/2019
+Venue Name: The Schottenstein Center
+Location: Columbus, OH, United States
+Date: 07/01/2019
+Venue Name: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date: 08/24/2019
+Venue Name: AccorHotels Arena
+Location: Paris, , France
+Date: 08/27/2019
+Venue Name: AccorHotels Arena
+Location: Paris, , France
+Date: 08/28/2019
+Venue Name: Sportpaleis Antwerpen
+Location: Antwerpen, , Belgium
+Date: 08/30/2019
+Venue Name: Lanxess Arena
+Location: Köln, , Germany
+Date: 09/01/2019
+Venue Name: Stadthalle
+Location: Vienna, , Austria
+Date: 09/03/2019
+Venue Name: Barclaycard Arena
+Location: Hamburg, , Germany
+Date: 09/05/2019
+Venue Name: O2 arena
+Location: Praha 9, , Czech Republic
+Date: 09/08/2019
+Venue Name: Tauron Arena
+Location: Kraków, , Poland
+Date: 09/09/2019
+Venue Name: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date: 09/11/2019
+Venue Name: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date: 09/14/2019
+Venue Name: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date: 09/15/2019
+Venue Name: The SSE Hydro
+Location: Glasgow, , United Kingdom
+Date: 09/17/2019
+Venue Name: FlyDSA Arena
+Location: Sheffield, , United Kingdom
+Date: 09/19/2019
+Venue Name: 3Arena
+Location: Dublin, , Ireland
+Date: 09/22/2019
+Venue Name: 3Arena
+Location: Dublin, , Ireland
+Date: 09/23/2019
+Venue Name: Royal Arena
+Location: Copenhagen, , Denmark
+Date: 10/01/2019
+Venue Name: Telenor Arena
+Location: Oslo, , Norway
+Date: 10/03/2019
+Venue Name: Hartwall Arena
+Location: Hki, , Finland
+Date: 10/05/2019
+Venue Name: Ericsson Globe
+Location: Stockholm, , Sweden
+Date: 10/07/2019
+Venue Name: Mercedes-Benz-Arena
+Location: Berlin, , Germany
+Date: 10/10/2019
+Venue Name: Hallenstadion
+Location: Zürich, , Switzerland
+Date: 10/13/2019
+Venue Name: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date: 08/23/2019
+Venue Name: Bridgestone Arena
+Location: Nashville, TN, United States
+Date: 06/07/2019
+Venue Name: PPG Paints Arena
+Location: Pittsburgh, PA, United States
+Date: 06/12/2019
+Artist: Jay Rock
+Song: King's Dead (with Kendrick Lamar, Future & James Blake)
+Preview Link: null
+Album: King's Dead (with Kendrick Lamar, Future & James Blake)
+Artist: Jay Rock
+Song: King's Dead (with Kendrick Lamar, Future & James Blake)
+Preview Link: null
+Album: Black Panther The Album Music From And Inspired By
+Artist: DJ Max Star
+Song: Kings Dead Freestyle
+Preview Link: https://p.scdn.co/mp3-preview/36d83382891bc2edf5cbdd5a654d0b8f4637e6cd?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: #Lakers
+Artist: Jay Rock
+Song: King's Dead (with Kendrick Lamar, Future & James Blake)
+Preview Link: null
+Album: Black Panther The Album Music From And Inspired By
+Artist: Jay Rock
+Song: King's Dead (with Kendrick Lamar, Future & James Blake)
+Preview Link: null
+Album: King's Dead (with Kendrick Lamar, Future & James Blake)
+Artist: Katatonia
+Song: Dead Letters
+Preview Link: https://p.scdn.co/mp3-preview/caf2fa12e868c9f56f07723351fb16860979d71e?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Artist: Blaze Ya Dead Homie
+Song: Ridin' the Whip (feat. Kottonmouth Kings)
+Preview Link: https://p.scdn.co/mp3-preview/46a4ccd7dc0d0ac64ab80e4b96dac0cecb0e020e?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Gang Rags
+Artist: Juce
+Song: Kings Dead
+Preview Link: https://p.scdn.co/mp3-preview/24b882d6febf24922def8fa699d86ffd606a71b6?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Toxens
+Artist: Jay Rock
+Song: King's Dead (feat. Future)
+Preview Link: null
+Album: Redemption
+Artist: Katatonia
+Song: The Racing Heart
+Preview Link: https://p.scdn.co/mp3-preview/8f114e3a238766c8fb71c8f8f2fbb9cdd7f7dbb6?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Artist: Sarah Schachner
+Song: Dead Kings and Living Gods
+Preview Link: https://p.scdn.co/mp3-preview/5013f332d31364bb6671d63a58fc3edde718f481?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Assassin's Creed Origins (Original Game Soundtrack)
+Artist: Katatonia
+Song: Lethean
+Preview Link: https://p.scdn.co/mp3-preview/c531fd24786e050f133c90f6895f454eadbf5018?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Artist: Katatonia
+Song: The Parting
+Preview Link: https://p.scdn.co/mp3-preview/4dc3de4763c647020ad436b5cec12683ca23127a?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Artist: Alexandre Desplat
+Song: The King is Dead
+Preview Link: null
+Album: The King's Speech (International Version)
+Artist: Katatonia
+Song: The One You Are Looking for Is Not Here (with Silje Wergeland)
+Preview Link: https://p.scdn.co/mp3-preview/fba2f67b1771529c94ffd95cef155a43af0e88bf?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Dead End Kings (Deluxe Edition)
+Artist: The Kings Dead
+Song: Shooting Star (feat. Alexus Lee)
+Preview Link: https://p.scdn.co/mp3-preview/16a685faf1a321cb61c024c807723e092a29135c?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Revenge of the Beast
+Artist: Dead Can Dance
+Song: In The Kingdom Of The Blind The One-Eyed Are Kings (Remastered)
+Preview Link: https://p.scdn.co/mp3-preview/70736d52e3d7b0d2a4103ff3bc569d638f2fcacf?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: The Serpent's Egg (Remastered)
+Artist: Zeds Dead
+Song: We Could Be Kings
+Preview Link: null
+Album: We Could Be Kings
+Artist: Jay Rock
+Song: King's Dead (feat. Future)
+Preview Link: null
+Album: Redemption
+Artist: The Kings Dead
+Song: Good Rebels (feat. Moonflwr)
+Preview Link: https://p.scdn.co/mp3-preview/44ffe080cbb04eed2f674231431af430706408c3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Revenge of the Beast
+Title: Creed
+Year: 2015
+IMDB Rating: 7.6/10
+Rotten Tomatoes Rating: 95%
+Country: USA
+Language: English, Spanish
+Plot Summary: The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.
+Actors: Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: The Hits--Chapter One
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Millennium
+Artist: Tyler and Mark
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Beautiful Dreams
+Artist: Anthem Lights
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Covers Part IV
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: 90 Sweet 90s Hits!
+Artist: Dynamite Boy
+Song: I Want It That Way
+Preview Link: null
+Album: Punk Goes Pop
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist: Manuel Costa
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: I Want It That Way
+Artist: Steel Panther
+Song: I Want It That Way
+Preview Link: null
+Album: I Want It That Way
+Artist: Scary Pockets
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Nu Funk
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Selfies on Kodachrome
+Artist: #90s Update
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: #90s Update
+Artist: Boyce Avenue
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Cover Sessions, Vol. 2
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: NOW That's What I Call 90s Pop
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: PMJ Is For Lovers: The Love Song Collection
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: The Essential "Weird Al" Yankovic
+Artist: Kidz Bop Kids
+Song: I Want It That Way
+Preview Link: null
+Album: Kidz Bop
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: NKOTBSB
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Poodle Hat
+Artist: Landon Austin & Julia Sheer
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: I Want It That Way
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: The Hits--Chapter One
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Millennium
+Artist: Anthem Lights
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Covers Part IV
+Artist: Tyler and Mark
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Beautiful Dreams
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: 90 Sweet 90s Hits!
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist: Boyce Avenue
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Cover Sessions, Vol. 2
+Artist: Manuel Costa
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: I Want It That Way
+Artist: Steel Panther
+Song: I Want It That Way
+Preview Link: null
+Album: I Want It That Way
+Artist: Scary Pockets
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Nu Funk
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Selfies on Kodachrome
+Artist: #90s Update
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: #90s Update
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: Poodle Hat
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: NOW That's What I Call 90s Pop
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: PMJ Is For Lovers: The Love Song Collection
+Artist: Landon Austin & Julia Sheer
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: I Want It That Way
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: NKOTBSB
+Artist: Dynamite Boy
+Song: I Want It That Way
+Preview Link: null
+Album: Punk Goes Pop
+Artist: Kidz Bop Kids
+Song: I Want It That Way
+Preview Link: null
+Album: Kidz Bop
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=f8cd444443844ccf97aa9e9f2eab58b0
+Album: The Essential "Weird Al" Yankovic
